@@ -1,0 +1,2 @@
+Ez egy teszt állomány, hogy mûködik a commit / push / pull!
+DeákZ
